@@ -1,8 +1,7 @@
 {
-  "name": "vue-cli",
+  "name": "BM",
   "description": "A Vue.js project",
-  "version": "1.0.0",
-  "author": "",
+  "author": "Bogdan Mihaileanu",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -11,6 +10,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
+    "@vue/cli": "^4.1.1",
     "aos": "^2.3.4",
     "axios": "^0.18.1",
     "element-ui": "^2.13.0",
