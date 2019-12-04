@@ -1,0 +1,62 @@
+[
+    {
+        "name": "The Golden age - broadway play",
+        "location": "olivier theatre",
+        "director": "Tony columbus",
+        "story": "Joost van den Vondel",
+        "type": "history",
+        "image": "http://demo.curlythemes.com/theatrewp/wp-content/uploads/sites/21/2017/06/event_10.jpg",
+        "time": "3:20am - 5:35am",
+        "duration": "2h 15'",
+        "runningTime": "About 2 hours and 15 minutes. There is no interval",
+        "dates": [7, 11, 21]
+    },
+    {
+        "name": "Cupid and psyche - comedie- ballet",
+        "location": "royal theatre",
+        "director": "Linda Loveless",
+        "story": "Moliere",
+        "type": "comedy",
+        "image": "http://demo.curlythemes.com/theatrewp/wp-content/uploads/sites/21/2017/06/event_1.jpg",
+        "time": "9:35am - 12:50pm",
+        "duration": "3h 15'",
+        "runningTime": "About 3 hours and 15 minutes, including interval",
+        "dates": [7, 12, 21, 26]
+    },
+    {
+        "name": "The adventures of sherlock holmes",
+        "location": "royal theatre",
+        "director": "John watson",
+        "story": "Sir arthur conan doyle",
+        "type": "drama",
+        "image": "http://demo.curlythemes.com/theatrewp/wp-content/uploads/sites/21/2017/06/event_2.jpg",
+        "time": "7:05am - 8:50am",
+        "duration": "1h 45'",
+        "runningTime": "About 1 hour and 45 minutes. There is no interval",
+        "dates": [2, 15, 29]
+    },
+    {
+        "name": "the vampire carmilla - a play in one act",
+        "location": "theatre boutique",
+        "director": "melinda stoker",
+        "story": "joseph sheridan le fanu",
+        "type": "horror",
+        "image": "http://demo.curlythemes.com/theatrewp/wp-content/uploads/sites/21/2017/06/event_3.jpg",
+        "time": "6:15pm - 8:15pm",
+        "duration": "2h",
+        "runningTime": "About 2 hours. There is no interval",
+        "dates": [2, 15, 25, 29]
+    },
+    {
+        "name": "the tragedy of hamlet, prince of denmark",
+        "location" : "olivier theatre",
+        "director" : "benedict booth",
+        "story" : "william shakespeare",
+        "type" : "tragedy",
+        "image" : "http://demo.curlythemes.com/theatrewp/wp-content/uploads/sites/21/2017/06/event_9.jpg",
+        "time" : "4:25am - 7:35am",
+        "duration" : "3h10'",
+        "runningTime" : "About 3 hours and 10 minutes including interval",
+        "dates" : [1, 8, 22, 30]
+    }
+]

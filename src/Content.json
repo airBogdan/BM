@@ -1,0 +1,137 @@
+[
+  {
+    "event date": "2019-01-01",
+    "event name": "Happy New Year Concert - International Music Stars",
+    "time interval": "01:00 - 06:00",
+    "duration": "5h",
+    "location": "Main Concert Hall",
+    "organizer": "New Music Entertainment",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/concert.jpg"
+  },
+  {
+    "event date": "2019-01-04",
+    "event name": "F.C. London vs F.C. Madrid - Soccer Game",
+    "time interval": "21:00 - 22:45",
+    "duration": "1h 45'",
+    "location": "Stadium",
+    "organizer": "Soccer Federation",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/stadion.jpg"
+  },
+  {
+    "event date": "2019-01-12",
+    "event name": "Cindy and the Backstabbers - Rock Concert",
+    "time interval": "22:00 - 22:40",
+    "duration": "2h 40'",
+    "location": "Concert Hall 2",
+    "organizer": "Cindy International",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/rock.jpg"
+  },
+  {
+    "event date": "2019-01-16",
+    "event name": "Woman of the Year Award Ceremony",
+    "time interval": "14:00 - 16:00",
+    "duration": "2h",
+    "location": "Events Hall",
+    "organizer": "Best Magazine",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/dj.jpg"
+  },
+  {
+    "event date": "2019-01-21",
+    "event name": "International Computers Exhibition 2017",
+    "time interval": "10:00 - 16:00",
+    "duration": "6h",
+    "location": "Exhibition Center",
+    "organizer": "IT Association",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/computers-2.jpg"
+  },
+  {
+    "event date": "2019-01-21",
+    "event name": "The Lawyers Annual Ball",
+    "time interval": "21:00 - 00:00",
+    "duration": "3h",
+    "location": "Ballroom",
+    "organizer": "Lawyers Club",
+    "image": ""
+  },
+  {
+    "event date": "2019-01-24",
+    "event name": "Sabrina Love - The International Tour",
+    "time interval": "18:00 - 21:30",
+    "duration": "3h 30'",
+    "location": "Main Concert Hall",
+    "organizer": "New Music Entertainment",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/singer.jpg"
+  },
+  {
+    "event date": "2019-01-27",
+    "event name": "Martians vs Vampires - Baseball Game",
+    "time interval": "17:00 - 19:00",
+    "duration": "2h",
+    "location": "Stadium",
+    "organizer": "Baseball League",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/baseball.jpg"
+  },
+  {
+    "event date": "2019-01-29",
+    "event name": "Hotels & Accomodation Expo",
+    "time interval": "11:00 - 15:00",
+    "duration": "4h",
+    "location": "Exhibition Center",
+    "organizer": "Horeca Association",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/expo2.jpg"
+  },
+  {
+    "event date": "2019-02-01",
+    "event name": "Cindy and the Good Boys - Country music concert",
+    "time interval": "20:30 - 23:00",
+    "duration": "2h 30'",
+    "location": "Concert Hall 2",
+    "organizer": "Cindy International",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/rock2.jpg"
+  },
+  {
+    "event date": "2019-02-03",
+    "event name": "Italy vs Germany -  Friendly Soccer Game",
+    "time interval": "21:00 - 22:45",
+    "duration": "1h 45'",
+    "location": "Stadium",
+    "organizer": "Soccer Federation",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/stadion.jpg"
+  },
+  {
+    "event date": "2019-02-05",
+    "event name": "New Age Virtual Reality Exhibition 2017",
+    "time interval": "13:00 - 19:00",
+    "duration": "6h",
+    "location": "Exhibition Center",
+    "organizer": "IT Association",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/computers-2.jpg"
+  },
+  {
+    "event date": "2019-02-06",
+    "event name": "International Music Awards Ceremony",
+    "time interval": "19:00 - 22:00",
+    "duration": "3h",
+    "location": "Events Hall",
+    "organizer": "Best Magazine",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/dj.jpg"
+  },
+  {
+    "event date": "2019-02-09",
+    "event name": "Restaurant and Pubs Furniture Exhibition 2017",
+    "time interval": "09:00 - 14:00",
+    "duration": "5h",
+    "location": "Exhibition Center",
+    "organizer": "Horeca Association",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/expo.jpg"
+  },
+  {
+    "event date": "2019-02-10",
+    "event name": "Indepenence Day Concert - International Music Stars",
+    "time interval": "13:00 - 16:30",
+    "duration": "3h 30'",
+    "location": "Main Concert Hall",
+    "organizer": "New Music Entertainment",
+    "image": "http://demo.curlythemes.com/timetable-wordpress-plugin/wp-content/uploads/sites/10/2016/02/concert.jpg"
+  }
+]

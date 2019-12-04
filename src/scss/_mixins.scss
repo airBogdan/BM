@@ -1,0 +1,61 @@
+@mixin mediaQuery($arg...) {
+    @if length($arg)==1 {
+        @media screen and (min-width:nth($arg, 1)) {
+            @content;
+        }
+    }
+    @if length($arg)==2 {
+        @media screen and (min-width:nth($arg, 1)) and (max-width:nth($arg, 2)) {
+            @content;
+        }
+    }
+    @if length($arg)==3 {
+        @media screen and (min-width:nth($arg, 1)) and (max-width:nth($arg, 2)) {
+            .blueDot {
+                &::after {
+                    width: nth($arg, 3);
+                    height: nth($arg, 3);
+                }
+            }
+
+            @content;
+        }
+    }
+}
+
+@mixin CRUDbutton {
+    font-family: 'Zilla Slab', serif;
+    cursor: pointer;
+    border: none;
+    background-color: black;
+    color: white;
+    outline: none;
+    padding: 7px 14px;
+    font-size: 18px;
+    &:disabled {
+        cursor: not-allowed;
+        opacity: 0.45;
+
+    }
+    &:disabled:hover {
+        background: black;
+        color: white;
+    }
+    &:hover {
+        background-color: #b3b3b3;
+        color: black;
+    }
+    @content;
+}
+
+@mixin CRUDlogout {
+    border: none;
+    color: white;
+    border: none;
+    background-color: black;
+    font-size: 22px;
+    &:hover {
+        color: $home-color;
+    }
+    @content;
+}
