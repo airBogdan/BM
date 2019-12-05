@@ -2,6 +2,10 @@
   "name": "BM",
   "description": "A Vue.js project",
   "author": "Bogdan Mihaileanu",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.16.3"
+  },
   "license": "MIT",
   "private": true,
   "scripts": {
